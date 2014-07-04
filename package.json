@@ -1,0 +1,24 @@
+{
+  "name": "cheatcode.js",
+  "version": "0.0.1",
+  "description": "cheatcode.js - perform an action on keypress sequence",
+  "main": "cheatcode.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ncurrier/cheatcode.js.git"
+  },
+  "keywords": [
+    "keycode",
+    "js",
+    "jquery"
+  ],
+  "author": "Nathaniel Currier <ncurrier@nathanielcurrier.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/ncurrier/cheatcode.js/issues"
+  },
+  "homepage": "https://github.com/ncurrier/cheatcode.js"
+}
